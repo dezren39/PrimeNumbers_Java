@@ -1,5 +1,5 @@
 # PrimeNumbers_Java
-I made this today to pass the time. Source copied below, with old technique redacted for space.
+I made this today to pass the time. Source copied below for convenience, old technique redacted for space.
 
     package primeNumbers;
     import java.util.ArrayList;

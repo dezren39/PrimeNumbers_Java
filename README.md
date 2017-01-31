@@ -9,7 +9,7 @@ I made this today to pass the time. Source copied below for convenience, old tec
      * @author drewry pope
      */
     public class Main {
-      //New method, divide i against every found prime up to i
+      //New method, divide iO against every found prime up to iO
       public static void main(String[] args)
       {
         List<Integer> primeNumbers= new ArrayList<Integer>(); //initialize new ArrayList to store primes
